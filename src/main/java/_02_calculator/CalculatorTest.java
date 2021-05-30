@@ -9,4 +9,6 @@ public class CalculatorTest {
     System.out.println(cal.multiply(2, 6));
     System.out.println(cal.divide(8, 4));
   }
+
+
 }
